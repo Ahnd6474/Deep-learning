@@ -1,20 +1,19 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.5)  5 NOV 2025 14:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.29)  5 NOV 2025 14:13
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **./main.tex
 (main.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
 (sn-jnl.cls
 Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Jour
 nal articles
 (C:\Users\ahnd6\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\ahnd6\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
-\mathindent=\skip49
+\mathindent=\skip48
 Applying: [2015/01/01] Make \[ robust on input line 50.
 LaTeX Info: Redefining \[ on input line 51.
 Already applied: [0000/00/00] Make \[ robust on input line 62.
@@ -23,19 +22,19 @@ LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
 (C:\Users\ahnd6\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count275
-\c@section=\count276
-\c@subsection=\count277
-\c@subsubsection=\count278
-\c@paragraph=\count279
-\c@subparagraph=\count280
-\c@figure=\count281
-\c@table=\count282
-\abovecaptionskip=\skip50
-\belowcaptionskip=\skip51
-\bibindent=\dimen148
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
 )
 LaTeX Info: Redefining \rm on input line 146.
 LaTeX Info: Redefining \sf on input line 147.
@@ -47,7 +46,7 @@ LaTeX Info: Redefining \sc on input line 152.
 LaTeX Info: Redefining \cal on input line 153.
 LaTeX Info: Redefining \mit on input line 154.
 LaTeX Info: Redefining \textsubscript on input line 212.
-\columnhsize=\skip52
+\columnhsize=\skip51
 
 (C:\Users\ahnd6\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -60,33 +59,33 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\ahnd6\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count283
-\Gm@cntv=\count284
-\c@Gm@tempcnt=\count285
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
 
 (C:\Users\ahnd6\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-\artcatbox=\box53
-\aucount=\count286
-\corraucount=\count287
-\punctcount=\count288
-\emailcnt=\count289
-\c@affn=\count290
-\addcount=\count291
-\PacsCount=\count292
-\PacsTmpCnt=\count293
-\FMremarkdim=\dimen157
-\fmremarkbox=\box54
+\artcatbox=\box51
+\aucount=\count198
+\corraucount=\count199
+\punctcount=\count266
+\emailcnt=\count267
+\c@affn=\count268
+\addcount=\count269
+\PacsCount=\count270
+\PacsTmpCnt=\count271
+\FMremarkdim=\dimen149
+\fmremarkbox=\box52
 
 ! LaTeX Error: File `cuted.sty' not found.
 
@@ -94,7 +93,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-sn-jnl.cls:774: Emergency stop.
+! Emergency stop.
 <read *> 
          
 l.774 \@ifpackageloaded
@@ -103,11 +102,11 @@ l.774 \@ifpackageloaded
 
  
 Here is how much of TeX's memory you used:
- 1112 strings out of 468080
- 16108 string characters out of 5425772
- 433722 words of memory out of 5000000
- 29839 multiletter control sequences out of 15000+600000
- 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1090 strings out of 474486
+ 15728 string characters out of 5743755
+ 1924542 words of memory out of 5000000
+ 23434 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
  72i,0n,79p,240b,45s stack positions out of 10000i,1000n,20000p,200000b,200000s
-sn-jnl.cls:774:  ==> Fatal error occurred, no output PDF file produced!
+!  ==> Fatal error occurred, no output PDF file produced!
